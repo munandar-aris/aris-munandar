@@ -1,2 +1,4 @@
 # Welcome To Aris Munandar Project
-Aplikasi Kasir Sederhana
+Aplikasi Kasir Sederhana Berbasis Web
+
+Saran Tampilan Utama
